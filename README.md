@@ -16,3 +16,13 @@ Los dos archivos R de este directorio (IngesurKriging.rsx y IngesurKriging.rsx.h
 Manual
 ------
 Copie los dos archivos al directorio $HOME/.qgis2/processing/rscripts
+
+¿Te faltan Dependencias?
+========================
+
+Si posiblemente, en Ubuntu instala:
+
+```
+sudo aptitude install libgdal-dev
+sudo aptitude install gfortran
+```
